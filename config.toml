@@ -1,0 +1,12 @@
+baseurl = "http://fritanga.tv"
+languageCode = "es-mx"
+title = "Fritanga TV"
+theme = "purehugo"
+
+[params]
+  twitterName = "fritangatv"
+  facebookName = "fritangatv"
+  twitchName = "fritangatv"
+  youtubeName = "fritangatv"
+  description = "Contenido por gamers y para gamers."
+  google_analytics = "UA-66301007-1"

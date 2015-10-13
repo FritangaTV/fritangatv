@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hots on Fritanga TV</title>
+    <link>http://fritanga.tv/categories/hots/</link>
+    <description>Recent content in Hots on Fritanga TV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Tue, 13 Oct 2015 15:00:00 -0500</lastBuildDate>
+    <atom:link href="http://fritanga.tv/categories/hots/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tips Fritanga TV: Defensa</title>
+      <link>http://fritanga.tv/hots/tip1/</link>
+      <pubDate>Tue, 13 Oct 2015 15:00:00 -0500</pubDate>
+      
+      <guid>http://fritanga.tv/hots/tip1/</guid>
+      <description>
+
+&lt;h2 id=&#34;tips-fritanga-tv-defensa:72877ed24d4c9fcadfb69654535cfe86&#34;&gt;Tips Fritanga TV: Defensa&lt;/h2&gt;
+
+&lt;p&gt;Ganar peleas de equipo hace que el a veces sus integrantes confíen demasiado. Este exceso de confianza puede causar la derrota del mismo. En este ejemplo podemos ver un equipo que no defendió el carril inferior y cedió la victoria ante un rival dos niveles abajo.&lt;/p&gt;
+
+&lt;p&gt;&lt;style&gt;
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%;  
+	padding-top: 25px;
+	height: 0;
+	margin-top: 2em;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+&lt;/style&gt;
+&lt;div class=&#34;embed video-player videoWrapper&#34;&gt;
+	&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/QcsN5PazXs0&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tips Fritanga TV: Pelea contra jefe</title>
+      <link>http://fritanga.tv/hots/tip2/</link>
+      <pubDate>Tue, 13 Oct 2015 15:00:00 -0500</pubDate>
+      
+      <guid>http://fritanga.tv/hots/tip2/</guid>
+      <description>
+
+&lt;h2 id=&#34;tips-fritanga-tv-pelea-contra-jefe:679564f403b6331a2364eda032c4fe0c&#34;&gt;Tips Fritanga TV: Pelea contra jefe&lt;/h2&gt;
+
+&lt;p&gt;Pelear contra un jefe con todo el equipo contrario activo en el mapa siempre es una mala idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;style&gt;
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%;  
+	padding-top: 25px;
+	height: 0;
+	margin-top: 2em;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+&lt;/style&gt;
+&lt;div class=&#34;embed video-player videoWrapper&#34;&gt;
+	&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/gYziqKBa6HQ&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
