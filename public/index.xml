@@ -10,24 +10,6 @@
     <atom:link href="http://fritanga.tv/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Tips Fritanga TV: Pelea contra jefe</title>
-      <link>http://fritanga.tv/hots/tip2/</link>
-      <pubDate>Tue, 13 Oct 2015 15:00:00 -0500</pubDate>
-      
-      <guid>http://fritanga.tv/hots/tip2/</guid>
-      <description>
-
-&lt;h2 id=&#34;tips-fritanga-tv-pelea-contra-jefe:679564f403b6331a2364eda032c4fe0c&#34;&gt;Tips Fritanga TV: Pelea contra jefe&lt;/h2&gt;
-
-&lt;p&gt;Pelear contra un jefe con todo el equipo contrario activo en el mapa siempre es una mala idea.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed video-player videoWrapper&#34;&gt;
-	&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/gYziqKBa6HQ&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Tips Fritanga TV: Defensa</title>
       <link>http://fritanga.tv/hots/tip1/</link>
       <pubDate>Tue, 13 Oct 2015 15:00:00 -0500</pubDate>
@@ -41,6 +23,24 @@
 
 &lt;p&gt;&lt;div class=&#34;embed video-player videoWrapper&#34;&gt;
 	&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/QcsN5PazXs0&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tips Fritanga TV: Pelea contra jefe</title>
+      <link>http://fritanga.tv/hots/tip2/</link>
+      <pubDate>Tue, 13 Oct 2015 15:00:00 -0500</pubDate>
+      
+      <guid>http://fritanga.tv/hots/tip2/</guid>
+      <description>
+
+&lt;h2 id=&#34;tips-fritanga-tv-pelea-contra-jefe:679564f403b6331a2364eda032c4fe0c&#34;&gt;Tips Fritanga TV: Pelea contra jefe&lt;/h2&gt;
+
+&lt;p&gt;Pelear contra un jefe con todo el equipo contrario activo en el mapa siempre es una mala idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;embed video-player videoWrapper&#34;&gt;
+	&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/gYziqKBa6HQ&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
 </description>
     </item>

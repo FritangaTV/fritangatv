@@ -249,3 +249,15 @@ h3 {
     width: 100%;
     height: 100%;
 }
+.button-xsmall {
+    font-size: 70%;
+}
+.streamList{
+    margin-top: 0.3em;
+}
+.statusCircle{
+    color: red;
+}
+.onlineCircle{
+    color: green;
+}
