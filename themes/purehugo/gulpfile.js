@@ -3,7 +3,7 @@ var gulp = require('gulp')
 	concat = require('gulp-concat'),
 	minifyCSS = require('gulp-minify-css');
 
-gulp.task('compress', function() {
+gulp.task('default', function() {
   gulp.src(['assets/js/jquery.min.js', 'assets/js/jquery.prettysocial.min.js', 'assets/js/rainbow-custom.min.js', 'assets/js/scripts.js'])
     .pipe(concat('all.min.js'))
     .pipe(uglify())
@@ -12,4 +12,7 @@ gulp.task('compress', function() {
     .pipe(concat('all.min.css'))
     .pipe(minifyCSS())
     .pipe(gulp.dest('static/css/'));
+});
+gulp.task('watch', function() {
+  gulp.watch('assets/**/*', ['default']);
 });
