@@ -1,4 +1,4 @@
-baseurl = "http://fritanga.tv"
+baseurl = "https://fritanga.tv"
 languageCode = "es-mx"
 title = "Fritanga TV"
 theme = "purehugo"

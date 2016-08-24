@@ -38,7 +38,7 @@ $(function(){
         currentChannel = selectedChannel;
     	var displayName = channel.display_name;
     	var gameName = channel.game;
-    	var template = '<h2><a href="http://twitch.tv/'+ selectedChannel +'/profile">'+ displayName +'</a> jugando: '+ gameName +'</h2><div class="embed video-player videoWrapper"><iframe height="378" width="100%" frameborder="0" scrolling="no" src="http://www.twitch.tv/' + selectedChannel + '/embed"></iframe></div>';
+    	var template = '<h2><a href="https://twitch.tv/'+ selectedChannel +'/profile">'+ displayName +'</a> jugando: '+ gameName +'</h2><div class="embed video-player videoWrapper"><iframe height="378" width="100%" frameborder="0" scrolling="no" src="https://www.twitch.tv/' + selectedChannel + '/embed"></iframe></div>';
     	$('#streamZone').empty().append(template);
         
     };
